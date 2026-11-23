@@ -1,0 +1,5 @@
+# Kernel, boot images, and downloaded Limine binaries
+/build/
+
+# Cargo build artifacts
+/target/
