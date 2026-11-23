@@ -2,6 +2,8 @@
 
 # YabukiOS
 
+![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=YABUKIOS+-+BUILT+TO+LEARN+.&duration=10)
+
 YabukiOS is an operating system I am developing as a personal learning project.
 
 YabukiOS is designed to run my own programming language, `.yabu`.
@@ -14,6 +16,12 @@ Build and run YabukiOS in an emulator.
 make
 make run
 ```
+
+## Boot Screen
+
+YabukiOS running in QEMU:
+
+![YabukiOS boot screen in QEMU](assets/images/boot.png)
 
 ## Run YabukiOS on a Physical Computer
 

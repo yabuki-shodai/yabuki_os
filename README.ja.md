@@ -2,6 +2,8 @@
 
 # YabukiOS
 
+![LED Board](https://led-borad-svg.vercel.app/api/led-board?text=YABUKIOS+-+BUILT+TO+LEARN+.&duration=10)
+
 YabukiOSは、OSの仕組みを学習するために個人開発しているオペレーティングシステムです。
 
 自作プログラミング言語 `.yabu` の実行を目標としています。
@@ -14,6 +16,12 @@ YabukiOSは、OSの仕組みを学習するために個人開発しているオ�
 make
 make run
 ```
+
+## 起動画面
+
+QEMUで起動したYabukiOSの画面です。
+
+![QEMUでのYabukiOS起動画面](assets/images/boot.png)
 
 ## 実機でYabukiOSを起動する
 
